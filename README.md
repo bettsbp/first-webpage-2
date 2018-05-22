@@ -1,5 +1,5 @@
 # My first webpage practice
-## By Kevin Ahn
+## By Kevin Ahn (and Brandon Betts)
 
 ## Description
 Practice webpage for Epicodus bootcamp
